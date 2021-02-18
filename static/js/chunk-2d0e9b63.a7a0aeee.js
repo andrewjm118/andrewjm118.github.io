@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9b63"],{"8f65":function(n,e,t){"use strict";t.r(e);var r=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("container-frame",{attrs:{src:n.$baseUrl+"sky-ui/index.html#/documentation/"}})},a=[],c=t("2877"),s={},u=Object(c["a"])(s,r,a,!1,null,null,null);e["default"]=u.exports}}]);
